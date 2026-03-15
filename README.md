@@ -12,6 +12,8 @@ Le projet est structuré comme suit :
     * `heuristique.py` : L'algorithme du Plus Proche Voisin (PPV).
     * `metaheuristique.py` : L'algorithme de la Recherche Tabou.
     * `utils.py` : Fonctions pour lire les fichiers et calculer les distances.
+    * `synthese_resultats_TSP.csv` : Fichier contenant l'intégralité des mesures (coûts et temps) obtenues lors des tests.
+    
 
 ##  Ce que nous avons fait
 
